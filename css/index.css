@@ -1,11 +1,18 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    background: rgba(0,0,0,0.6) ;
+}
+
 body{
     margin: 0;
     height: 100vh;
     overflow-x: hidden;
-    background-image: url("../assets/im2@2x.png");
-    background-size: 100vw 100vh;
+    background-image: url("../assets/im2.png");
+    background-size: cover;
     font-family: 'Segoe UI', sans-serif;
     background-repeat: no-repeat;
+
 }
 
 #nav {
