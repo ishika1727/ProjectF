@@ -9,6 +9,7 @@
 body{
     margin: 0;
     overflow-x: hidden;
+    overflow-y:hidden;
     background-image: url("../assets/im2.png");
     background-size: cover;
     font-family: 'Segoe UI', sans-serif;
