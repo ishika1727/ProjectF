@@ -10,6 +10,7 @@ body{
     overflow-x: hidden;
     background-image: url("../assets/im2.png");
     background-size: cover;
+	height:100vh;
     font-family: 'Segoe UI', sans-serif;
     background-repeat: no-repeat;
 
