@@ -3,11 +3,11 @@
     flex-direction: column;
     background: rgba(0,0,0,0.6) ;
 	max-height: 100vh;
+	overflow-y:hidden;
 }
 
 body{
     margin: 0;
-    max-height: 100vh;
     overflow-x: hidden;
     background-image: url("../assets/im2.png");
     background-size: cover;
